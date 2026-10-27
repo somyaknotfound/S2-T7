@@ -1,6 +1,6 @@
 # Threshold-Aware Similarity Caching for Named Data Networks
 
-CS301 Computer Networks mini-project, NITK Surathkal (2026-27) — Team T8.
+CS301 Computer Networks mini-project, NITK Surathkal (2026-27) — Team T7.
 Guide: Prof. B. R. Chandavarkar.
 
 Somyak Priyadarshi Mohanta (241CS257), Pranav Shaji (241CS243), Chris Tony (241CS222)
@@ -13,7 +13,7 @@ IEEE Access, vol. 12, pp. 163338-163348, 2024.
 | Folder | Contents |
 |---|---|
 | `build/` | All code: ndnSIM scenarios (`build/scenario/`), experiment drivers, analysis scripts |
-| `submission/` | LaTeX for submission (`main.tex` = progress report) |
+| `submission/` | LaTeX for submission (`final.tex` = final report, `main.tex` = progress report) |
 | `research/documents/` | Base paper, last semester's report and proposal |
 | `research/context/` | Problem statements, reviews, design notes, `STATUS.md` (current state) |
 | `research/results/` | Experiment outputs |
@@ -24,7 +24,7 @@ IEEE Access, vol. 12, pp. 163338-163348, 2024.
 ndnSIM needs Ubuntu 20.04, so it runs in Docker:
 
 ```bash
-git clone https://github.com/somyaknotfound/S2-T8-2026-27.git && cd S2-T8-2026-27
+git clone https://github.com/somyaknotfound/S2-T7.git && cd S2-T7
 docker run -dit --name ndnsim -v "$PWD":/work -w /work ubuntu:20.04 bash
 ```
 

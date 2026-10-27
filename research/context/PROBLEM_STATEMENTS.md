@@ -130,8 +130,8 @@ regime where the heavy tail is worst. It may not survive a real network.
 
 I checked every entry below against arXiv, IEEE/ACM listings, or the base paper's
 own reference list. Entries marked † are standard classics I did not re-check here; verify them
-before they go into the report. An earlier unchecked 70-paper list was not used, because
-it had wrong venues, years, and author orders. For example, it put FoggyCache in SOSP (it is
+before they go into the report. An earlier unchecked 70-paper list
+had wrong venues, years, and author orders. For example, it put FoggyCache in SOSP (it is
 MobiCom 2018) and Cachier in TMC (it is ICDCS 2017), and it gave one malformed arXiv ID. I kept
 only verified items.
 

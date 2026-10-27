@@ -3,7 +3,7 @@
 **Prerequisite:** S3 done; S4 done or written up honestly as partial.
 
 ## Files
-- **Report:** `submission/main.tex`. Its layout is cloned from last semester; the title page already says T8, ns-3 and the final title.
+- **Report:** `submission/main.tex`. Its layout is cloned from last semester; the title page already says T7, ns-3 and the final title.
 - **Figures:** `submission/figures/*.pdf`, produced by `build/analysis/*.py`. Never edit figures by hand.
 - **Proposal (already submitted format):** `Proposal_222_243_257.tex`. Its 6 references are verified.
 - **Compile:** Overleaf (upload `submission/`) or `tectonic -X compile main.tex`. On Windows, Tectonic is not installed; download 0.15.0 from its GitHub releases.

@@ -1,7 +1,7 @@
 # Status — current state of the project
 
 ## Decided (5 Oct 2026)
-- **Team T8:** Somyak Priyadarshi Mohanta (241CS257), Pranav Shaji (241CS243), Chris Tony (241CS222).
+- **Team T7** (settled 22 Oct): Somyak Priyadarshi Mohanta (241CS257), Pranav Shaji (241CS243), Chris Tony (241CS222).
 - **Topic:** *Threshold-Aware Similarity Caching for Named Data Networks: Bounding Retry Delay under Congestion using ns-3.*
   Spreadsheet title: *Threshold-Aware Similarity Caching with Bounded Retries for Named Data Networks.*
 - **Tool:** ns-3 + ndnSIM; Python/MATLAB for analysis. The course only allows UnetStack, ns-3 or MATLAB; NeST was dropped on 5 Oct.
@@ -123,7 +123,6 @@
 5. **Explainer:** `research/context/project_explainer.html` (open it in a browser) covers the project for the progress assessment: problem, KPIs, how it differs from the base paper, the simulation set-up, every result and the limits.
 6. **Open decisions:**
    - **Learner fix:** stop pooling unobserved low-similarity bins (design_notes, "Known weakness"). It means re-running S4 and updating every S4 number in both reports, so not before the 22 Oct progress assessment.
-   - **Team number:** the submitted proposal's header says S-2-T-7; everything else says T8. Confirm which is right.
    - **Progress report, due 22 Oct:** compile `main.tex` and upload it to Overleaf or submit it.
 - Report note: for C = 100, s = 0.99 and s = 1.0 give identical results (similarity step = 1/99). Show s = 1.0 only, or say so.
 - Report note: S4 runs one topology and a synthetic catalogue. Name these limitations in the conclusions.
@@ -149,3 +148,4 @@
 - 2026-10-13 — Pushed `f166190` (the Stage 4 trace analysis).
 - 2026-10-20 — Pushed `40e4ffe`: the submitted proposal with contact details redacted. Personal files in the folder (grade cards, roster CSV, the unredacted proposal) are excluded through `.git/info/exclude`.
 - 2026-10-20 — All three MATLAB scripts ran in MATLAB Online. Model check: all PASS (`results/matlab/model_check.txt`). The scripts now find the result folders by themselves (`find_csv`). The final report switched to the 9 MATLAB figures; two of them were redrawn after legend fixes. Wrote the standalone project explainer.
+- 2026-10-27 — Moved to github.com/somyaknotfound/S2-T7; team number T7 throughout.

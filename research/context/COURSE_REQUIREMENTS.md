@@ -1,6 +1,6 @@
 # Course requirements — CS301 mini-project and CS302 lab (from the course manual, 2026-27)
 
-Source: the manual's text, pasted by Somyak on 7 Oct 2026. Team T8: Somyak Priyadarshi Mohanta (241CS257), Pranav Shaji (241CS243), Chris Tony (241CS222). Tool listed for T8: NS3/MATLAB/ndnSIM. Guide: Prof. B. R. Chandavarkar.
+Source: the manual's text, pasted by Somyak on 7 Oct 2026. Team T7: Somyak Priyadarshi Mohanta (241CS257), Pranav Shaji (241CS243), Chris Tony (241CS222). Tool listed for T7: NS3/MATLAB/ndnSIM. Guide: Prof. B. R. Chandavarkar.
 
 ## Deadlines and weights (CS301)
 | Report | Weight | Due |
